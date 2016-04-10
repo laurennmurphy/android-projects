@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Todo List</string>
+    <string name="action_settings">Settings</string>
+    <string name="hint">Enter new item</string>
+    <string name="add_item">Add Item</string>
+    <string name="remove">Tip: Press down on an item to remove it; remove them all with the delete button.</string>
+    <string name="delete_all">Delete All</string>
+</resources>
