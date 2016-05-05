@@ -1,0 +1,12 @@
+CHANGED,/Users/aura-lite/Desktop/Programming Resources/Todo/app/build/intermediates/transforms/instantRun/debug/folders/4000/5/enhanced/android/support/v7/appcompat/R$id$override.class
+CHANGED,/Users/aura-lite/Desktop/Programming Resources/Todo/app/build/intermediates/transforms/instantRun/debug/folders/4000/5/enhanced/com/laurennor/todo/R$string$override.class
+CHANGED,/Users/aura-lite/Desktop/Programming Resources/Todo/app/build/intermediates/transforms/instantRun/debug/folders/4000/5/enhanced/com/laurennor/todo/R$mipmap$override.class
+CHANGED,/Users/aura-lite/Desktop/Programming Resources/Todo/app/build/intermediates/transforms/instantRun/debug/folders/4000/5/enhanced/com/android/tools/fd/runtime/AppPatchesLoaderImpl.class
+CHANGED,/Users/aura-lite/Desktop/Programming Resources/Todo/app/build/intermediates/transforms/instantRun/debug/folders/4000/5/enhanced/com/laurennor/todo/R$layout$override.class
+CHANGED,/Users/aura-lite/Desktop/Programming Resources/Todo/app/build/intermediates/transforms/instantRun/debug/folders/4000/5/enhanced/com/laurennor/todo/R$id$override.class
+CHANGED,/Users/aura-lite/Desktop/Programming Resources/Todo/app/build/intermediates/transforms/instantRun/debug/folders/4000/5/enhanced/com/laurennor/todo/R$style$override.class
+CHANGED,/Users/aura-lite/Desktop/Programming Resources/Todo/app/build/intermediates/transforms/instantRun/debug/folders/4000/5/enhanced/com/laurennor/todo/MainActivity$1$override.class
+CHANGED,/Users/aura-lite/Desktop/Programming Resources/Todo/app/build/intermediates/transforms/instantRun/debug/folders/4000/5/enhanced/com/laurennor/todo/R$integer$override.class
+CHANGED,/Users/aura-lite/Desktop/Programming Resources/Todo/app/build/intermediates/transforms/instantRun/debug/folders/4000/5/enhanced/com/laurennor/todo/R$styleable$override.class
+CHANGED,/Users/aura-lite/Desktop/Programming Resources/Todo/app/build/intermediates/transforms/instantRun/debug/folders/4000/5/enhanced/android/support/design/R$id$override.class
+CHANGED,/Users/aura-lite/Desktop/Programming Resources/Todo/app/build/intermediates/transforms/instantRun/debug/folders/4000/5/enhanced/com/laurennor/todo/MainActivity$override.class
