@@ -8,4 +8,4 @@
 
 ### Magic Eight Ball - Created Feb. 2016
 ![MagicEight-1](/images/MEB-2.png)
-![MagicEight-2](/images/MEB-2.png)
+![MagicEight-2](/images/MEB-3.png)
